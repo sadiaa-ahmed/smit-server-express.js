@@ -12,3 +12,5 @@ const PORT = process.env.PORT || 3000
 app.listen(PORT, () => {
     console.log(`Example server listening on port ${PORT}`)
 })
+
+// hello world express.js ka server bana ker deploy kia hai cloud per (deployment on cloud (cyclic.sh))
