@@ -13,4 +13,5 @@ app.listen(PORT, () => {
     console.log(`Example server listening on port ${PORT}`)
 })
 
-// hello world express.js ka server bana ker deploy kia hai cloud per (deployment on cloud (cyclic.sh))
+// hello world express.js ka server banaya hai r usko deploy kia hai cyclic k cloud per (deployment on cloud (cyclic.sh))
+// humny just dekha hai k humny isko banaya kesy hai r deploy kesy kerna hai......
