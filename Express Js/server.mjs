@@ -12,6 +12,5 @@ const PORT = process.env.PORT || 3000
 app.listen(PORT, () => {
     console.log(`Example server listening on port ${PORT}`)
 })
-
-// hello world express.js ka server banaya hai r usko deploy kia hai cyclic k cloud per (deployment on cloud (cyclic.sh))
-// humny just dekha hai k humny isko banaya kesy hai r deploy kesy kerna hai......
+// Created a "Hello World" server using Express.js and deployed it on Cyclic's cloud (deployment on cloud: cyclic.sh).
+// We have just explored how to create and deploy it.
